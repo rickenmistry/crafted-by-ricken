@@ -35,6 +35,7 @@ const labelsThird = [
     "MySql",
     "Ms Access",
     "MongoDB",
+    "Google SEO",
 ];
 
 function Expertise() {
