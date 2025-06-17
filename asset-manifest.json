@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crafted-by-ricken/static/css/main.3e808531.css",
+    "main.js": "/crafted-by-ricken/static/js/main.ba19655c.js",
+    "static/js/453.b05d8aa5.chunk.js": "/crafted-by-ricken/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock10.png": "/crafted-by-ricken/static/media/mock10.1fc3b52bc9ed05736b29.png",
+    "static/media/bg-light.png": "/crafted-by-ricken/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/crafted-by-ricken/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/profile1.jpg": "/crafted-by-ricken/static/media/profile1.86058a73864d1e5016e9.jpg",
+    "static/media/mock07.png": "/crafted-by-ricken/static/media/mock07.4e3f09c3cda42681bdf0.png",
+    "static/media/mock08.png": "/crafted-by-ricken/static/media/mock08.50e35fd311bd04c2b074.png",
+    "index.html": "/crafted-by-ricken/index.html",
+    "main.3e808531.css.map": "/crafted-by-ricken/static/css/main.3e808531.css.map",
+    "main.ba19655c.js.map": "/crafted-by-ricken/static/js/main.ba19655c.js.map",
+    "453.b05d8aa5.chunk.js.map": "/crafted-by-ricken/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e808531.css",
+    "static/js/main.ba19655c.js"
+  ]
+}
