@@ -1,8 +1,7 @@
 import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
-// import profile from '../assets/images/profile1.jpg';
-import profile from 'https://photos.fife.usercontent.google.com/pw/AP1GczMcauFvUP3aFQ6CypyJurQkgQLRjIZtmVDcbaLp6FK2zaRwd9YBVeBH=w651-h869-s-no-gm?authuser=0';
+import profile from '../assets/images/IMG_0307.jpg';
 import '../assets/styles/Main.scss';
 
 function Main() {
