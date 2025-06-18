@@ -22,7 +22,7 @@ function Main() {
           {/* 🚀 Download CV Button */}
           <a
             href="/RICKEN_RESUME.pdf"
-            download
+            download = "RICKEN_RESUME.pdf"
             className="download-btn"
           >
             Download CV
