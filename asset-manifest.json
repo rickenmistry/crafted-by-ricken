@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/crafted-by-ricken/static/css/main.3e808531.css",
+    "main.css": "/crafted-by-ricken/static/css/main.d20b2a91.css",
     "main.js": "/crafted-by-ricken/static/js/main.63cfa4ca.js",
     "static/js/453.b05d8aa5.chunk.js": "/crafted-by-ricken/static/js/453.b05d8aa5.chunk.js",
     "static/media/profile1.jpg": "/crafted-by-ricken/static/media/profile1.87d188b2ea113607b8ed.jpg",
@@ -10,12 +10,12 @@
     "static/media/mock07.png": "/crafted-by-ricken/static/media/mock07.4e3f09c3cda42681bdf0.png",
     "static/media/mock08.png": "/crafted-by-ricken/static/media/mock08.50e35fd311bd04c2b074.png",
     "index.html": "/crafted-by-ricken/index.html",
-    "main.3e808531.css.map": "/crafted-by-ricken/static/css/main.3e808531.css.map",
+    "main.d20b2a91.css.map": "/crafted-by-ricken/static/css/main.d20b2a91.css.map",
     "main.63cfa4ca.js.map": "/crafted-by-ricken/static/js/main.63cfa4ca.js.map",
     "453.b05d8aa5.chunk.js.map": "/crafted-by-ricken/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e808531.css",
+    "static/css/main.d20b2a91.css",
     "static/js/main.63cfa4ca.js"
   ]
 }
