@@ -21,9 +21,7 @@ function Main() {
 
           {/* 🚀 Download CV Button */}
           <a
-            href="public/RICKEN_RESUME.pdf"
-            download = "RICKEN_RESUME.pdf"
-            className="download-btn"
+            href={`${process.env.PUBLIC_URL}/RICKEN_RESUME.pdf`}  download target="_blank" rel="noopener noreferrer" className="download-btn"
           >
             Download CV
           </a>
